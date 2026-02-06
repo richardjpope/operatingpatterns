@@ -1,0 +1,26 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'NHS Operating Patterns'
+subtitle: 'Testing'
+theme: 'hextra'
+
+params:
+  description: "For a more dynamic NHS"
+  author: "Healthcare Patterns Team"
+  hextra:
+    logo: "Operating Patterns"
+  navbar:
+    width: "wide"
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
+
+menu:
+  main:
+    - name: "Submit an example"
+      url: "/patterns/"
+      weight: 10
+    - name: "About"
+      url: "/about/"
+      weight: 30

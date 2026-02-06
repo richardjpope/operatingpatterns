@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fa709a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fee140;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#grad4)"/>
+  <rect x="80" y="80" width="60" height="60" rx="5" fill="#fff" opacity="0.3"/>
+  <rect x="160" y="80" width="60" height="60" rx="5" fill="#fff" opacity="0.3"/>
+  <rect x="240" y="80" width="60" height="60" rx="5" fill="#fff" opacity="0.3"/>
+  <path d="M 80 150 L 320 150" stroke="#fff" stroke-width="2" opacity="0.4"/>
+  <path d="M 70 160 Q 140 200 210 160" stroke="#fff" stroke-width="3" opacity="0.4" fill="none" stroke-linecap="round"/>
+  <path d="M 210 160 Q 280 200 350 160" stroke="#fff" stroke-width="3" opacity="0.4" fill="none" stroke-linecap="round"/>
+  <circle cx="80" cy="220" r="18" fill="#fff" opacity="0.4"/>
+  <circle cx="160" cy="240" r="18" fill="#fff" opacity="0.4"/>
+  <circle cx="240" cy="220" r="18" fill="#fff" opacity="0.4"/>
+  <circle cx="320" cy="240" r="18" fill="#fff" opacity="0.4"/>
+  <text x="200" y="275" font-size="16" fill="white" text-anchor="middle" font-weight="300">Market Shaping</text>
+</svg>
