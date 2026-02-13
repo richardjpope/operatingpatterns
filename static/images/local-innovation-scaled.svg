@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Scale" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.89 173.43">
+<svg id="Scale_copy" data-name="Scale copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.89 173.43">
   <defs>
     <style>
       .cls-1 {
@@ -7,36 +7,18 @@
       }
 
       .cls-2 {
-        fill: #231f20;
+        fill: #2160ad;
       }
 
       .cls-3 {
         fill: #78be43;
       }
-
-      .cls-4 {
-        fill: #2160ad;
-      }
-
-      .cls-4, .cls-5 {
-        opacity: .15;
-      }
-
-      .cls-6 {
-        fill: none;
-        stroke: #231f20;
-        stroke-dasharray: 5 5;
-        stroke-miterlimit: 10;
-      }
     </style>
   </defs>
-  <rect class="cls-4" x="113.09" y="45.98" width="83.7" height="81.48"/>
-  <g class="cls-5">
-    <rect class="cls-1" x="113.09" y="89.57" width="38.89" height="37.88"/>
-  </g>
-  <rect class="cls-3" x="113.09" y="114.4" width="13.06" height="13.06"/>
-  <g>
-    <line class="cls-6" x1="185.4" y1="57.07" x2="126.51" y2="114.4"/>
-    <polygon class="cls-2" points="180.18 56.45 180.2 57.45 185.13 57.33 184.88 62.26 185.88 62.31 186.18 56.31 180.18 56.45"/>
-  </g>
+  <rect class="cls-2" x="213.36" y="64.08" width="63.38" height="63.38"/>
+  <rect class="cls-1" x="115.63" y="89.57" width="38.89" height="37.88"/>
+  <rect class="cls-3" x="115.63" y="114.4" width="13.06" height="13.06"/>
+  <rect class="cls-1" x="213.36" y="89.57" width="38.89" height="37.88"/>
+  <rect class="cls-3" x="213.36" y="114.4" width="13.06" height="13.06"/>
+  <rect class="cls-3" x="17.9" y="114.4" width="13.06" height="13.06"/>
 </svg>
