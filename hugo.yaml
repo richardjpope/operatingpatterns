@@ -21,6 +21,9 @@ menu:
     - name: "Submit an example"
       url: "/patterns/"
       weight: 10
+    - name: "Writing"
+      url: "/writing/"
+      weight: 10
     - name: "About"
       url: "/about/"
       weight: 30
