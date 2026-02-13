@@ -1,27 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Modular" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.89 173.43">
   <defs>
-    <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff9a56;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff6a88;stop-opacity:1" />
-    </linearGradient>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #2160ad;
+      }
+
+      .cls-3 {
+        fill: #78be43;
+      }
+    </style>
   </defs>
-  <rect width="400" height="300" fill="url(#grad6)"/>
-  <rect x="70" y="70" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="125" y="70" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="180" y="70" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="235" y="70" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="290" y="70" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="70" y="130" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="125" y="130" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="180" y="130" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="235" y="130" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <rect x="290" y="130" width="45" height="45" rx="4" fill="#fff" opacity="0.3"/>
-  <g opacity="0.4">
-    <rect x="70" y="200" width="265" height="50" rx="8" fill="none" stroke="#fff" stroke-width="2"/>
-    <line x1="90" y1="200" x2="90" y2="250"/>
-    <line x1="150" y1="200" x2="150" y2="250"/>
-    <line x1="210" y1="200" x2="210" y2="250"/>
-    <line x1="270" y1="200" x2="270" y2="250"/>
-  </g>
-  <text x="200" y="275" font-size="16" fill="white" text-anchor="middle" font-weight="300">Modular Assembly</text>
+  <line class="cls-1" x1="103.95" y1="85.31" x2="75.73" y2="63.86"/>
+  <line class="cls-1" x1="102.85" y1="84.77" x2="131.07" y2="63.32"/>
+  <line class="cls-1" x1="112.13" y1="135.47" x2="180.66" y2="135.47"/>
+  <line class="cls-1" x1="178.5" y1="62.04" x2="247.03" y2="62.04"/>
+  <polyline class="cls-1" points="274.13 40.52 245.91 61.97 274.13 83.42"/>
+  <rect class="cls-3" x="172.8" y="55.52" width="13.06" height="13.06"/>
+  <rect class="cls-2" x="207.1" y="55.52" width="13.06" height="13.06"/>
+  <rect class="cls-2" x="241.39" y="55.52" width="13.06" height="13.06"/>
+  <rect class="cls-3" x="268.85" y="79.22" width="13.06" height="13.06"/>
+  <rect class="cls-3" x="268.85" y="31.43" width="13.06" height="13.06"/>
+  <line class="cls-1" x1="212" y1="113.14" x2="183.78" y2="134.59"/>
+  <rect class="cls-3" x="109.49" y="128.94" width="13.06" height="13.06"/>
+  <rect class="cls-2" x="178.07" y="128.94" width="13.06" height="13.06"/>
+  <rect class="cls-3" x="205.66" y="104.94" width="13.06" height="13.06"/>
+  <line class="cls-1" x1="177.36" y1="113.39" x2="149.14" y2="134.84"/>
+  <rect class="cls-3" x="171.4" y="104.94" width="13.06" height="13.06"/>
+  <line class="cls-1" x1="34.51" y1="62.06" x2="75.66" y2="62.06"/>
+  <line class="cls-1" x1="103.97" y1="39" x2="75.75" y2="60.45"/>
+  <rect class="cls-3" x="27.98" y="55.53" width="13.06" height="13.06"/>
+  <rect class="cls-2" x="71.8" y="58.14" width="7.83" height="7.83"/>
+  <rect class="cls-2" x="69.19" y="55.53" width="13.06" height="13.06"/>
+  <line class="cls-1" x1="102.87" y1="39.54" x2="131.09" y2="60.99"/>
+  <rect class="cls-2" x="124.03" y="55.53" width="13.06" height="13.06" transform="translate(261.12 124.12) rotate(-180)"/>
+  <rect class="cls-3" x="96.44" y="31.65" width="13.06" height="13.06"/>
+  <rect class="cls-2" x="143.78" y="128.94" width="13.06" height="13.06"/>
+  <rect class="cls-3" x="96.44" y="79.57" width="13.06" height="13.06"/>
 </svg>

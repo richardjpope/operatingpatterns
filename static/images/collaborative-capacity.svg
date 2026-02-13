@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Collab" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.89 173.43">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #00a8cd;
+      }
+
+      .cls-4 {
+        fill: #2160ad;
+      }
+
+      .cls-5 {
+        fill: #78be43;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 5 5;
+      }
+    </style>
+  </defs>
+  <circle class="cls-3" cx="260.59" cy="131.88" r="7.57"/>
+  <circle class="cls-5" cx="260.59" cy="86.87" r="7.57"/>
+  <circle class="cls-5" cx="260.59" cy="41.23" r="7.57"/>
+  <polyline class="cls-1" points="250.32 49.48 201.12 86.87 250.32 124.26"/>
+  <line class="cls-1" x1="202.17" y1="86.87" x2="248.16" y2="86.87"/>
+  <rect class="cls-4" x="148.42" y="79.22" width="13.06" height="13.06"/>
+  <rect class="cls-2" x="122.02" y="53" width="65.85" height="65.85"/>
+  <circle class="cls-3" cx="49.3" cy="41.55" r="7.57"/>
+  <circle class="cls-5" cx="49.3" cy="86.56" r="7.57"/>
+  <circle class="cls-5" cx="49.3" cy="132.2" r="7.57"/>
+  <polyline class="cls-1" points="59.58 123.95 108.77 86.56 59.58 49.17"/>
+  <line class="cls-1" x1="107.73" y1="86.56" x2="61.74" y2="86.56"/>
+</svg>
