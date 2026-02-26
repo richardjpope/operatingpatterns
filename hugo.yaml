@@ -19,7 +19,7 @@ params:
 menu:
   main:
     - name: "Submit an example"
-      url: "/patterns/"
+      url: "/submit/"
       weight: 10
     - name: "Writing"
       url: "/writing/"
