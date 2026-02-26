@@ -1,5 +1,5 @@
 ---
-title: "Modular Assembly"
+title: "Modular assembly"
 subtitle: "Local services are built from and augmented by common components and design standards"
 image: "/images/modular-assembly.svg"
 weight: 60

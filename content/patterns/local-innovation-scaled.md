@@ -1,5 +1,5 @@
 ---
-title: "Local Innovation, Scaled"
+title: "Local innovation, scaled"
 subtitle: "A local innovation works, so it is opened up for others to use"
 image: "/images/local-innovation-scaled.svg"
 weight: 50

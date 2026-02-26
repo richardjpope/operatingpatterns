@@ -1,5 +1,5 @@
 ---
-title: "Market Shaping"
+title: "Market shaping"
 subtitle: "A dynamic market offers great products that click together, competing on UX and price not vendor lock-in"
 image: "/images/market-shaping.svg"
 weight: 40
