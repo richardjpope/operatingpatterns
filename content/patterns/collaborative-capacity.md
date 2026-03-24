@@ -1,37 +1,16 @@
 ---
 title: "Collaborative capacity"
-subtitle: "A dynamic market offers great products that click together, competing on UX and price not vendor lock-in"
+subtitle: "Different NHS organisations band together to solve a shared problem"
 image: "/images/collaborative-capacity.svg"
 weight: 40
 ---
+Collaborative capacity is an operating pattern where multiple NHS organisations or teams pool resources to build shared solutions to common problems. Rather than each trust or Integrated Care Board independently commissioning similar work - duplicating effort, fragmenting expertise and limiting what is achievable within any single organisation's budget - this pattern enables organisations to fund a single, dedicated multidisciplinary team with collective governance and shared ownership of the output. The solutions developed are open source, ensuring that the investment benefits the wider system and that participating organisations retain genuine control rather than creating new dependencies.
 
-# Market Shaping
 
-## Overview
+## NHS examples
 
-Market Shaping is an operating pattern where healthcare organizations actively design and govern an internal or external marketplace of solutions where providers compete on quality, user experience, and price rather than on switching costs and vendor lock-in.
+Non-NHS examples
 
-## Key Principles
+## LocalGov Drupal
+* DHIS2
 
-- **Interoperability**: Solutions are designed to work together, not create silos
-- **Open standards**: Common interfaces reduce lock-in and switching costs
-- **Competition on merits**: Vendors win through better UX and lower price, not through lock-in
-- **Network effects**: More participation increases value for all participants
-- **Dynamic evolution**: The market naturally selects for better solutions
-
-## Why This Pattern?
-
-Traditional vendor lock-in and closed systems lead to stagnation, high costs, and poor user experience. Market Shaping creates healthy competition that drives innovation while maintaining interoperability.
-
-## Implementation Considerations
-
-- Define clear technical standards and APIs
-- Create incentives for interoperability
-- Monitor market concentration and encourage competition
-- Build tools and platforms that work with multiple vendors
-- Establish clear data ownership and portability rights
-
-## Related Examples
-
-- [Healthcare Technology Marketplace](/examples/tech-marketplace/)
-- [Open Integration Platform](/examples/open-platform/)

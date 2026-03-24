@@ -1,38 +1,16 @@
 ---
 title: "Local innovation, scaled"
-subtitle: "A local innovation works, so it is opened up for others to use"
+subtitle: "A local innovation works, so it is invested in and opened up for others to use"
 image: "/images/local-innovation-scaled.svg"
 weight: 50
 ---
+Local innovation, scaled is an operating pattern that creates intentional pathways for proven local successes to spread across the NHS. When a team develops something that demonstrably works, whether it’s a digital tool, a care pathway, or a service model, the system has mechanisms ready to identify that success, resource its expansion, and make it available to otters who could benefit. Rather than leaving good ideas trapped in their place of origin, or forcing every organisation to reinvent solutions to common problems, this pattern treats local innovations as potential system assets worthy of investment and deliberate scaling.
 
-# Local Innovation, Scaled
+The mechanism works through a combination of intelligence functions that actively can for promising innovations, funding structures that can quickly redirect resources toward proven successes, and the organisational flexibility to transfer teams and services from local to regional or national homes as they mature. In this example, a local innovation such as a falls prevention app developed within one hospital that saves hundreds of thousands of pounds doesn’t remain a success story within one Trust. It becomes a candidate for scaling, receiving the money and people needed to adapt it for wider use, whether through white-labelling, regional rollout or national adoption.
 
-## Overview
+## NHS examples
 
-Local Innovation, Scaled is an operating pattern where solutions developed by one department or location to solve a local problem are refined, generalized, and made available to other parts of the organization, multiplying the value of innovation.
+* Safe Steps Fall Prevention App
+* Health Innovation Networks
 
-## Key Principles
-
-- **Bottom-up innovation**: Solutions emerge from frontline teams solving real problems
-- **Proof of concept**: Local success demonstrates viability before scaling
-- **Generalization**: Local solutions are adapted to work in different contexts
-- **Knowledge transfer**: The team that developed the solution helps others implement it
-- **Continued ownership**: Local innovators maintain connection to the scaled solution
-
-## Why This Pattern?
-
-Innovation often emerges from frontline staff solving local problems. Rather than having all innovation top-down or centralized, organizations can encourage local problem-solving and then scale the best solutions organization-wide.
-
-## Implementation Considerations
-
-- Create channels for frontline innovations to be identified and escalated
-- Establish clear criteria for determining which innovations merit scaling
-- Invest in knowledge transfer and documentation
-- Provide support for implementation in new contexts
-- Recognize and reward local innovators
-- Plan for adaptation to local context, not one-size-fits-all implementation
-
-## Related Examples
-
-- [Department-Initiated Clinical Protocol Scaling](/examples/protocol-scaling/)
-- [Nurse-Led Workflow Innovation Rollout](/examples/workflow-innovation/)
+## Non-NHS examples

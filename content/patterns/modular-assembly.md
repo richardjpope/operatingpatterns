@@ -1,38 +1,15 @@
 ---
 title: "Modular assembly"
-subtitle: "Local services are built from and augmented by common components and design standards"
+subtitle: "Local services and built from and augmented by common components and design standards"
 image: "/images/modular-assembly.svg"
 weight: 60
 ---
+Modular assembly is an operating pattern where local health services are constructed by combining standardised, reusable components with locally tailored solutions. Rather than forcing uniformity across the system or leaving each organisation to build everything from scratch, this approach provides teams with a reliable foundation of shared infrastructure - such as patient notifications, appointment booking systems, or clinical data platforms - that they can augment with service designs and tools shaped to their specific populations and contexts.
 
-# Modular Assembly
+The power of this pattern lies in its balance between efficiency and responsiveness. Local teams aren’t constrained by rigid, one-size-fits-all systems that ignore the realities of their communities. A diabetes service in Bradford, for example, might need different communication approaches, language support, and community touchpoints than one in Cornwall, even while both rely on the same blood test ordering and results infrastructure. Modular assembly gives frontline teams the permission and practical means to experiment with what works for their patients, while avoiding the waste of rebuilding fundamental capabilities that should work consistently everywhere.
 
-## Overview
+### NHS examples
 
-Modular Assembly is an operating pattern where healthcare organizations build a library of reusable components, patterns, and design standards that local teams can combine to assemble solutions tailored to their specific needs, balancing standardization with flexibility.
+### Non-NHS examples
 
-## Key Principles
 
-- **Composable components**: Services are built from interchangeable parts
-- **Design standards**: Common patterns ensure consistency and usability
-- **Local assembly**: Teams combine components to solve local needs
-- **Shared dependency management**: Common components are maintained centrally
-- **Progressive enhancement**: Basic capabilities are available to all; advanced customization for specialized needs
-
-## Why This Pattern?
-
-One-size-fits-all solutions don't work in healthcare's diverse environments, but building everything from scratch in each location creates waste and inconsistency. Modular Assembly lets teams build locally-optimized solutions using standardized components.
-
-## Implementation Considerations
-
-- Invest in identifying and building truly reusable components
-- Create clear documentation and interfaces for components
-- Establish governance for component versioning and updates
-- Support teams in learning how to assemble solutions
-- Build tools that make assembly easier
-- Monitor component usage and retire unused components
-
-## Related Examples
-
-- [EHR Customization Framework](/examples/ehr-customization/)
-- [Clinical Application Component Library](/examples/component-library/)

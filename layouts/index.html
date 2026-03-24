@@ -14,11 +14,6 @@
           {{ .Params.subtitle }}
         </p>
       </div>
-      <div class="hx:mb-12">
-        <p class="not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl">
-          {{ .Content }}
-        </p>
-      </div>
         {{ $patterns := where (where site.RegularPages "Section" "patterns") "Kind" "page" }}
         {{ if $patterns }}
           <div class="hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose" style="--hextra-feature-grid-cols:3">
@@ -37,6 +32,27 @@
             {{ end }}
           </div>
         {{ end }}
+        <div class="content">
+          {{ .Content }}
+        </div>
+        <!-- {{ $patterns := where (where site.RegularPages "Section" "patterns") "Kind" "page" }}
+        {{ if $patterns }}
+          <div class="content">
+            {{ range $patterns.ByParam "weight" }}
+                  <h2 class="hx:text-2xl hx:font-medium hx:leading-6 hx:mb-2 hx:flex hx:items-center">
+                    <span>{{ .Title }}</span>
+                  </h2>
+                  <p class="hx:text-gray-500 hx:dark:text-gray-400 hx:text-sm hx:leading-6">
+                    {{ .Params.subtitle }}
+                  </p>
+                  <div class="content">
+                  <img src="{{ .Params.image }}" class="" alt="{{ .Title }}">
+                  {{ .Content }}
+                </div>
+            {{ end }}
+          </div>
+        {{ end }} -->
+
     </div>
   </div>
 </div>

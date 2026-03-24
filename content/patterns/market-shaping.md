@@ -1,37 +1,20 @@
 ---
 title: "Market shaping"
-subtitle: "A dynamic market offers great products that click together, competing on UX and price not vendor lock-in"
+subtitle: "A dynamic market offers great products that compete on UX and price not vendor lock-in"
 image: "/images/market-shaping.svg"
 weight: 40
 ---
+Market shaping is an operating pattern where the NHS actively cultivates a competitive supplier ecosystem that serves the health system’s interests rather than vendor interests. Instead of accepting a marketplace dominated by monolithic systems, proprietary data formats, and contracts that lock organisations into expensive, inflexible relationships, this pattern uses standards, regulation and strategic investment to create conditions where suppliers compete on genuine value such as better user experience, lower prices and superior functionality, rather than on their ability to make switching costly or impossible.
 
-# Market Shaping
+The mechanisms works through a combination of levers: mandating interoperability and data standards so that different products can work together seamlessly; investing in public or open-source alternatives that demonstrate what’s possible and apply competitive pressure; establishing design standards and tooling that makes it easier for suppliers to do the right thing than to build proprietary silos; and using procurement expertise to favour modular, replaceable components over all-encompassing systems. Over time, this shifts the market away from monoliths to “small parts loosely joined” - a landscape of specialised tools that connect cleanly, giving organisations genuine choice.
 
-## Overview
+## NHS examples
 
-Market Shaping is an operating pattern where healthcare organizations actively design and govern an internal or external marketplace of solutions where providers compete on quality, user experience, and price rather than on switching costs and vendor lock-in.
+* RAVS
+* MAVIS
+* ELiD
 
-## Key Principles
+## Non-NHS examples
 
-- **Interoperability**: Solutions are designed to work together, not create silos
-- **Open standards**: Common interfaces reduce lock-in and switching costs
-- **Competition on merits**: Vendors win through better UX and lower price, not through lock-in
-- **Network effects**: More participation increases value for all participants
-- **Dynamic evolution**: The market naturally selects for better solutions
-
-## Why This Pattern?
-
-Traditional vendor lock-in and closed systems lead to stagnation, high costs, and poor user experience. Market Shaping creates healthy competition that drives innovation while maintaining interoperability.
-
-## Implementation Considerations
-
-- Define clear technical standards and APIs
-- Create incentives for interoperability
-- Monitor market concentration and encourage competition
-- Build tools and platforms that work with multiple vendors
-- Establish clear data ownership and portability rights
-
-## Related Examples
-
-- [Healthcare Technology Marketplace](/examples/tech-marketplace/)
-- [Open Integration Platform](/examples/open-platform/)
+* Local Digital Fund
+* Open Digital Planning
