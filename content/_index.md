@@ -4,31 +4,26 @@ subtitle: "Ways to do good work together, in a decentralised system"
 ---
 
 
-## About
-Operating Patterns is an attempt to name some emerging strategies and ways of working in the NHS. It was created by James Plunkett from [kinship.works](https://kinship.works) and Richard Pope from [RPP](https://rpp.works).
-
 ## Why did we develop the operating patterns?
 
-Decentralised systems like the NHS should be good at learning and improvement. Such systems have useful qualities - lots of people working close to problems, creating a form of distributed intelligence, and people at the centre (or centres) spotting patterns, and improving conditions.
+Decentralised systems like the NHS should be good at learning. They have real advantages: lots of people working close to problems, natural distributed intelligence, and people at the centre able to spot patterns and improve conditions.
 
-If a system like this works well, good work can originate from anywhere, and spread anywhere. People can collaborate easily across layers and organisations, each offering part of the solution. And when people make progress on a problem, they do so for everyone.
+When systems like this work well, good ideas can come from anywhere and spread anywhere. People can collaborate across layers and organisations, each contributing part of the solution. Progress made in one place benefits everyone.
+Right now, this isn't happening. Instead, the NHS is full of fragmentation and friction.
+Debates about devolution play out as a tug of war between local and national - arguments about where things should sit: budgets, technologies, decisions. Central mandation versus local discretion.
 
-As things stand, this isn’t how the NHS is working. Instead, the decentralised nature of the NHS seems to result in fragmentation and friction.
+We call this Dated Devolution. It's an outdated way of thinking about decentralised systems.
+And it's a serious problem. It wastes money on duplication. It means the benefits of innovation and intelligence don't spread. For almost every problem, someone, somewhere, has made progress - but no-one can access their learning.
+The good news: this problem already has a solution. Across the NHS, many people are already working differently - they are enacting a more dynamic kind of devolution, in which people collaborate to do great work, anywhere, on behalf of everyone.
+We started mapping this work, and we noticed some patterns - common ways of getting great work done together in a decentralised system.
 
-When the NHS debates devolution, it plays out as a tug of war between ‘local’ and ‘national’, as people argue over the level at which things - budgets, technologies, decisions - should sit in the system. And people debate the merits of central mandation, versus local discretion.
+These are the operating patterns.
 
-We think of this as Dated Devolution - an outdated way of thinking about decentralised systems.
+They offer a new grammar for devolution - a model of Digital-era Devolution.
 
-And we believe Dated Devolution is a huge problem. It means the NHS wastes money on duplication. And it means we don’t spread the benefits of innovation and intelligence. For almost every problem, someone, somewhere, has made progress. But no-one can access their learning.
+They apply not just to the NHS in England, but to any decentralised system - from India's public stack, to Germany’s education system, to any system of local government.
 
-The good news is, this problem already has a solution. Across the NHS, many people are already working in ways that embody a different conception of devolution - a more dynamic view, in which people collaborate to do great work, anywhere, on behalf of everyone.
+We're sharing these patterns as a prototype. We'd love feedback. Are there missing patterns? Or refinements? Or case studies to bring this to life?
 
-We started to map this work, and we noticed some patterns. There seemed to be some common ways of getting great work done together, in a decentralised system.
-
-In this website we are sharing these operating patterns.
-
-We think the patterns give us a new way to talk about devolution - a new language or grammar for devolution. Or a model of Digital-era Devolution.
-
-We think the patterns apply not just to the NHS in England, but to any decentralised system - from India’s X, to X’s Y, to any system of local government.
-
-We are sharing the patterns as a prototype to improve on. We would love to hear feedback - missing or refined patterns, or case studies of the patterns.
+## About
+Operating Patterns is an attempt to name some emerging strategies and ways of working in the NHS. It was created by James Plunkett from [kinship.works](https://kinship.works) and Richard Pope from [Platformland](https://rpp.works).
