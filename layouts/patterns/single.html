@@ -1,26 +1,80 @@
 {{ define "main" }}
-<div class="hx:mx-auto hx:flex hextra-max-page-width">
-  <div class="content">
-    <header class="pattern-hero">
-        <div class="pattern-hero-text">
-        <h1 class="pattern-title">{{ .Title }}</h1>
-        {{ with .Params.subtitle }}
-        <p class="pattern-subtitle">{{ . }}</p>
-        {{ end }}
-      </div>
-      {{ if .Params.image }}
-      <div class="pattern-hero-media">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
-      </div>
-      {{ end }}
-    </header>
+<style>
+  .pattern-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
 
-    <main class="pattern-body">
-      <div class="pattern-container">
-        {{ .Content }}
+.pattern-intro,
+.pattern-body {
+  min-width: 0;
+}
+
+.pattern-subtitle {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  max-width: 48rem;
+  font-size: 1.25rem;
+  line-height: 1.8;
+  color: rgb(107 114 128);
+}
+
+.pattern-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+@media (min-width: 1024px) {
+  .pattern-layout {
+    grid-template-columns: minmax(0, 1fr) 30rem;
+    column-gap: 2rem;
+    row-gap: 1.5rem;
+  }
+
+  .pattern-intro {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .pattern-media {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: start;
+  }
+
+  .pattern-body {
+    grid-column: 1;
+    grid-row: 2;
+  }
+}
+</style>
+<div class="hx:mx-auto hx:flex hextra-max-page-width">
+  <div class="hx:w-full hx:break-words hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:pb-8 hx:pt-8 md:hx:pt-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-left),1.5rem)]">
+    <div class="content">
+      <div class="pattern-layout">
+        <div class="pattern-intro">
+          <h1 class="pattern-title">{{ .Title }}</h1>
+
+          {{ with .Params.subtitle }}
+          <p class="pattern-subtitle">{{ . }}</p>
+          {{ end }}
+        </div>
+
+        {{ if .Params.image }}
+        <aside class="pattern-media">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        </aside>
+        {{ end }}
+
+        <div class="pattern-body">
+          {{ .Content }}
+        </div>
       </div>
-    </main>
+    </div>
   </div>
 </div>
-
 {{ end }}

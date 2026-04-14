@@ -3,10 +3,14 @@ languageCode: 'en-gb'
 title: 'NHS Operating Patterns'
 subtitle: 'Ways to do good work together, in a decentralised system'
 theme: 'hextra'
-
+disableKinds:
+  - rss
+  
 params:
   description: "For a more dynamic NHS"
-  author: "Healthcare Patterns Team"
+  author:
+    email: "hello@rpp.works"
+    name: ""
   hextra:
     logo: "Operating Patterns"
   navbar:
@@ -15,7 +19,8 @@ params:
     # light | dark | system
     default: light
     displayToggle: false
-
+  footer:
+    displayPoweredBy: false
 menu:
   main:
     - name: "Submit an example"

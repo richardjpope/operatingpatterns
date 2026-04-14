@@ -1,5 +1,19 @@
 {{ define "main" }}
+<style>
+  .content-sections {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
 
+@media (min-width: 1024px) {
+  .content-sections {
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    gap: 3rem;
+    align-items: start;
+  }
+}
+</style>
 <div class="hx:mx-auto hx:flex hextra-max-page-width">
   <div
     class="hx:w-full hx:break-words hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:pb-8 hx:pt-8 hx:md:pt-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-left),1.5rem)]">
@@ -32,8 +46,18 @@
             {{ end }}
           </div>
         {{ end }}
-        <div class="content">
-          {{ .Content }}
+        <div class="content content-sections">
+          <section class="content-section">
+            {{ .Content }}
+          </section>
+            <section class="content-section">
+              <h2>About</h2>
+              <p>
+                Operating Patterns is an attempt to name some emerging strategies and ways of working in the NHS. 
+                It was created by James Plunkett from <a href="https://kinship.works">Kinship Works</a> and Richard Pope from <a href="https://rpp.works">Platformland</a>.
+              </p>
+
+            </section>  
         </div>
         <!-- {{ $patterns := where (where site.RegularPages "Section" "patterns") "Kind" "page" }}
         {{ if $patterns }}

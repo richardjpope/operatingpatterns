@@ -24,6 +24,3 @@ They offer a new grammar for devolution - a model of Digital-era Devolution.
 They apply not just to the NHS in England, but to any decentralised system - from India's public stack, to Germany’s education system, to any system of local government.
 
 We're sharing these patterns as a prototype. We'd love feedback. Are there missing patterns? Or refinements? Or case studies to bring this to life?
-
-## About
-Operating Patterns is an attempt to name some emerging strategies and ways of working in the NHS. It was created by James Plunkett from [kinship.works](https://kinship.works) and Richard Pope from [Platformland](https://rpp.works).
