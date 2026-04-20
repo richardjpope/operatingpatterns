@@ -11,6 +11,6 @@ The mechanism works through a combination of intelligence functions that activel
 ## NHS examples
 
 * Safe Steps Fall Prevention App
-* Health Innovation Networks
+* [Health Innovation Networks](https://www.england.nhs.uk/ourwork/part-rel/healthinnovationnetwork/)
 
 ## Non-NHS examples

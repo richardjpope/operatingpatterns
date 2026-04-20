@@ -13,9 +13,9 @@ The concept of common platforms is not purely a technology one. It can be applie
 
 ## NHS examples
 
-* NHS Notify
+* [NHS Notify](https://digital.nhs.uk/services/nhs-notify)
 
 ## Non-NHS examples
 
-* GOV.UK Notify
+* [GOV.UK Notify](https://www.notifications.service.gov.uk)
 

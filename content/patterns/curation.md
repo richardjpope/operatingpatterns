@@ -12,9 +12,8 @@ By abstracting away the complexities of different organisations, curation helps 
 
 ## NHS examples
 
-* Prescriptions in the NHS App
-* Wayfinder in the NHS App
+* [Prescriptions in the NHS App](https://digital.nhs.uk/services/nhs-app/nhs-app-features/prescriptions-in-the-nhs-app)
 
 ## Non-NHS examples
 
-* Lightning Reach
+* [Lightning Reach](https://www.lightningreach.org)
