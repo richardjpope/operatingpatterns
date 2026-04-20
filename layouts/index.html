@@ -46,6 +46,54 @@
             {{ end }}
           </div>
         {{ end }}
+
+
+        <div class="hx:relative hx:left-1/2 hx:right-1/2 hx:-mx-[50vw] hx:w-full hx:px-0 hx:mt-8 hx:not-prose">
+
+          <a
+            href="/files/briefing-note.pdf"
+            download
+            class="hx:block hx:rounded-2xl hx:border hx:border-gray-200 hx:bg-white hx:p-6 hx:shadow-sm hover:hx:shadow-md hover:hx:border-gray-300 hx:transition hx:no-underline dark:hx:bg-neutral-900 dark:hx:border-neutral-800 dark:hover:hx:border-neutral-700"
+          >
+            <div class="hx:flex hx:items-start hx:justify-between hx:gap-4">
+              <div>
+                <p class="hx:text-sm hx:font-medium hx:text-blue-600 dark:hx:text-blue-400">
+                  Briefing note
+                </p>
+                <h3 class="hx:mt-1 hx:text-xl hx:font-semibold hx:text-gray-900 dark:hx:text-gray-100">
+                  Download the briefing note
+                </h3>
+                <p class="hx:mt-2 hx:text-sm hx:text-gray-600 dark:hx:text-gray-400">
+                  A short PDF summary covering the key points, background, and recommendations.
+                </p>
+              </div>
+
+              <div class="hx:flex hx:h-10 hx:w-10 hx:shrink-0 hx:items-center hx:justify-center hx:rounded-xl hx:bg-gray-100 dark:hx:bg-neutral-800">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  class="hx:h-5 hx:w-5 hx:text-gray-700 dark:hx:text-gray-200"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  stroke-width="1.8"
+                >
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v12m0 0 4-4m-4 4-4-4M5 21h14" />
+                </svg>
+              </div>
+            </div>
+
+            <div class="hx:mt-4 hx:flex hx:items-center hx:gap-3">
+              <span class="hx:inline-flex hx:items-center hx:rounded-full hx:bg-gray-100 hx:px-3 hx:py-1 hx:text-xs hx:font-medium hx:text-gray-700 dark:hx:bg-neutral-800 dark:hx:text-gray-300">
+                PDF
+              </span>
+              <span class="hx:text-xs hx:text-gray-500 dark:hx:text-gray-400">
+                2 pages
+              </span>
+            </div>
+          </a>
+        </div>
+
+
         <div class="content content-sections">
           <section class="content-section">
             {{ .Content }}
