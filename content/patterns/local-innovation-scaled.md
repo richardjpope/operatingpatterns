@@ -14,3 +14,5 @@ The mechanism works through a combination of intelligence functions that activel
 * [Health Innovation Networks](https://www.england.nhs.uk/ourwork/part-rel/healthinnovationnetwork/)
 
 ## Non-NHS examples
+
+* [Local Digital Fund](https://www.localdigital.gov.uk/fund/)
