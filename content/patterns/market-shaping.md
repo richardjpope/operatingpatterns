@@ -16,5 +16,4 @@ The pattern works through a combination of levers: mandating interoperability an
 
 ## Non-NHS examples
 
-* [Local Digital Fund](https://www.localdigital.gov.uk/fund/)
 * [Open Digital Planning](https://opendigitalplanning.org)
