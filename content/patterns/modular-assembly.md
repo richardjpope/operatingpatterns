@@ -2,6 +2,7 @@
 title: "Modular assembly"
 subtitle: "Local services are built from and augmented by common components and design standards"
 image: "/images/modular-assembly.svg"
+alttext: "Three different groups of multi-coloured blocks arranged in a different shape."
 weight: 60
 ---
 Modular assembly is an operating pattern where local health services are constructed by combining standardised, reusable components with locally tailored solutions. Rather than forcing uniformity across the system or leaving each organisation to build everything from scratch, this approach provides teams with a reliable foundation of shared infrastructure - such as patient notifications, appointment booking systems, or clinical data platforms - that they can augment with service designs and tools shaped to their specific populations and contexts.

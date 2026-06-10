@@ -2,6 +2,7 @@
 title: "Market shaping"
 subtitle: "A dynamic market offers great products that compete on UX and price not vendor lock-in"
 image: "/images/market-shaping.svg"
+alttext: "Four small blocks arranged in a square joined by lines. A small dotted box is shown replacing the one in the top right."
 weight: 40
 ---
 Market shaping is an operating pattern where the NHS actively cultivates a competitive supplier ecosystem that serves the health system’s interests rather than vendor interests. Instead of accepting a marketplace dominated by monolithic systems, proprietary data formats, and contracts that lock organisations into expensive, inflexible relationships, this pattern uses standards, regulation and strategic investment to create conditions where suppliers compete on genuine value such as better user experience, lower prices and superior functionality, rather than on their ability to make switching costly or impossible.

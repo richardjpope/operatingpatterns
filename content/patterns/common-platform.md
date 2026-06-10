@@ -2,6 +2,7 @@
 title: "Common platform"
 subtitle: "A simple, universal need is met once, supporting multiple services cheaply and simply"
 image: "/images/common-platform.svg"
+alttext: "Lots of small blocks representing multiple services, followed by an arrow and then a large block representing a singple platform"
 weight: 10
 ---
 

@@ -2,6 +2,7 @@
 title: "Local innovation, scaled"
 subtitle: "A local innovation works, so it is invested in and opened up for others to use"
 image: "/images/local-innovation-scaled.svg"
+alttext: "Three blocks, each getting progressively larger and gaining extra colours as it grows"
 weight: 50
 ---
 Local innovation, scaled is an operating pattern that creates intentional pathways for proven local successes to spread across the NHS. When a team develops something that demonstrably works, whether it’s a digital tool, a care pathway, or a service model, the system has mechanisms ready to identify that success, resource its expansion, and make it available to others who could benefit. Rather than leaving good ideas trapped in their place of origin, or forcing every organisation to reinvent solutions to common problems, this pattern treats local innovations as potential system assets worthy of investment and deliberate scaling.

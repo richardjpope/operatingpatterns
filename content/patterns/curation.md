@@ -2,6 +2,7 @@
 title: "Curation"
 subtitle: "Local services are surfaced in one place for a cohesive experience"
 image: "/images/curation.svg"
+alttext: "A large blue block containing smaller dotted boxes. Small multi coloured blocks are shown with arrows pointing at the larger block"
 weight: 30
 ---
 Curation is an operating pattern where locally provided services are brought together through a single, nationally designed interface that creates a coherent experience for patients. Rather than expecting citizens to navigate a fragmented landscape of different websites, apps, and access points that vary by geography and provider, this pattern establishes a consistent front door and a curated surface through which people can discover and use whatever services are available to them, regardless of which organisation provides them. The national platform handles the complex work of aggregation, wayfinding and user experience, while local teams continue to own and deliver the underlying services.
