@@ -5,7 +5,6 @@ subtitle: 'Ways to do good work together, in a decentralised system'
 theme: 'hextra'
 disableKinds:
   - rss
-  
 params:
   description: "For a more dynamic NHS"
   author:
@@ -29,3 +28,10 @@ menu:
     - name: "Writing"
       url: "/writing/"
       weight: 10
+# markup:
+
+#   goldmark:
+
+#     renderer:
+
+#       unsafe: true

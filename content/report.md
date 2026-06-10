@@ -377,3 +377,86 @@ DHSC, working with MHCLG and other relevant departments, should ensure that the 
 This Discussion Paper began with the observation that the NHS is, in principle, well-suited to learning. It is a decentralised system, with intelligence distributed across many organisations and thousands of dedicated staff working close to patients. Good ideas should be able to come from anywhere and spread everywhere; In practice, however, this happens far less than it could. We have explored one reason for this, namely a dated conception of devolution - a framing that debates whether things (budgets, decisions, technologies) should sit at national or local level, and a tug of war between central mandation and local discretion.
 
 We have offered an alternative framing, digital-era devolution, embodied in six operating patterns. And we have made 11 recommendations for how to support these ways of working. The NHS is a vast and complex system, and many people have devoted whole careers to the questions we have explored. We therefore offer the operating patterns, and our recommendations, as a provocation and a basis for discussion. We would be grateful for feedback and for suggestions to adapt and improve these ideas.
+
+
+## Footnotes
+
+[^1]:  [NHS Confederation (2025). Digital transformation in the NHS: a reference guide](https://www.nhsconfed.org/publications/digital-transformation-nhs-reference-guide)
+
+[^2]:  [Plunkett (2025). What does digital-era healthcare really mean?](https://medium.com/@jamestplunkett/what-does-digital-era-healthcare-really-mean-dad6565dba05)
+
+[^3]:  [REFORM (2024). Close Enough to Care: A new structure for the English health and care system](https://re-state.co.uk/wp-content/uploads/2024/04/Close-enough-to-care.pdf)
+
+[^4]:  [NHS Confederation (2025). Abolishing NHS England: what you need to know](https://www.nhsconfed.org/publications/abolishing-nhs-england-what-you-need-know)
+
+[^5]:  [MHCLG (2024). English Devolution White Paper. Power and Partnership: Foundations for Growth](https://assets.publishing.service.gov.uk/media/67ade9866e6c8d18118acd58/English_Devolution_White_Paper_Web_Accessible.pdf)
+
+[^6]:  [Page et al. (2024). Floundering or Flourishing? Early Insights from the Inception of Integrated Care Systems in England](https://pmc.ncbi.nlm.nih.gov/articles/PMC11225555/pdf/ijic-24-3-7738.pdf)
+
+[^7]:  [Scarbrough et al (2024). Mobilizing pilot-based evidence for the spread and sustainability of innovations in healthcare: The role of innovation intermediaries](https://www.sciencedirect.com/science/article/pii/S0277953623007517)
+
+[^8]:  [Health Innovation Network South London (nd). NHS TEST: not every AI is intelligent, but we need an intelligent framework to choose new technologies](https://healthinnovationnetwork.com/resources/nhs-test-an-intelligent-framework-to-choose-new-technologies/)
+
+[^9]:  https://pmc.ncbi.nlm.nih.gov/articles/PMC1122074/
+
+[^10]:  [https://www.england.nhs.uk/patient-safety/the-nhs-patient-safety-strategy/nhs-patient-safety-strategy-progress-so-far/](https://www.england.nhs.uk/patient-safety/the-nhs-patient-safety-strategy/nhs-patient-safety-strategy-progress-so-far/) 
+
+[^11]:  [https://www.england.nhs.uk/long-read/improvement-in-the-nhs/](https://www.england.nhs.uk/long-read/improvement-in-the-nhs/) 
+
+[^12]:  [https://www.sciencedirect.com/science/article/abs/pii/S0263931923001163](https://www.sciencedirect.com/science/article/abs/pii/S0263931923001163) 
+
+[^13]:  [https://thehealthinnovationnetwork.co.uk/archive/ahsn-network-releases-national-impacts-celebrating-10-years-of-ahsns/](https://thehealthinnovationnetwork.co.uk/archive/ahsn-network-releases-national-impacts-celebrating-10-years-of-ahsns/) 
+
+[^14]:  [https://www.rand.org/pubs/research\_reports/RRA166-1.html](https://www.rand.org/pubs/research_reports/RRA166-1.html) 
+
+[^15]:  [https://www.nhselect.nhs.uk/improvement-collaboratives](https://www.nhselect.nhs.uk/improvement-collaboratives) 
+
+[^16]:  [https://pubmed.ncbi.nlm.nih.gov/15319244/](https://pubmed.ncbi.nlm.nih.gov/15319244/) 
+
+[^17]:  [GMICP (nd). Greater Manchester ICP Strategy](https://gmintegratedcare.org.uk/greatermanchester-icp/icp-strategy/)
+
+[^18]:  [UK Parliament House of Commons Library (2025). The 10 Year Health Plan for England](https://commonslibrary.parliament.uk/research-briefings/cbp-10368/)
+
+[^19]:  [The King’s Fund (2019). A citizen-led approach to health and care: lessons from the Wigan Deal](https://assets.kingsfund.org.uk/f/256914/x/7f008d393b/wigan_deal_2019.pdf)
+
+[^20]:  [NHS England: NHS Notify](https://digital.nhs.uk/services/nhs-notify)
+
+[^21]:  [CGI (nd). A new era of patient communications: NHS England embraces unified messaging](https://www.cgi.com/uk/en-gb/case-study/health/new-era-patient-communications-nhs-england-embraces-unified-messaging)
+
+[^22]:  [Gov.UK Notify](https://www.notifications.service.gov.uk/)
+
+[^23]:  [About DHIS2](https://dhis2.org/about-2/); [Intergovernmental Software Collaborative](https://beeckcenter.georgetown.edu/projects/intergovernmental-software-collaborative/)
+
+[^24]:  [Open Digital Cooperative](https://opendigital.coop/)
+
+[^25]:  [LocalGov Drupal: About Us](https://localgovdrupal.org/about-us)
+
+[^26]:  [NHS England (2025). An easier way to manage vaccinations in schools](https://digital.nhs.uk/blog/transformation-blog/2025/an-easier-way-to-manage-vaccinations-in-schools)
+
+[^27]:  [For the NHS, by the NHS](https://www.digital-prevention-services.nhs.uk/docs/for-the-nhs-by-the-nhs/)
+
+[^28]:  An example is the Safe Steps app, developed in collaboration between Southwark Council and Guy’s and St Thomas’ NHS Foundation Trust, Health Innovation Manchester, acting as a regional intelligence and scaling function, identified Safe Steps as a high-impact innovation and supported its adoption across Greater Manchester. [Digital Health (2024). Falls prevention app helps reduce care home ambulance call-outs](https://www.digitalhealth.net/2024/08/falls-prevention-app-helps-reduce-care-home-ambulance-call-outs/#:~:text=The%20Safe%20Steps%20app%20is%20a%20digital,\(IDC\)%20*%20SafeSteps%20*%20Health%20Innovation%20Manchester)
+
+[^29]:  [NHS England (nd). The Health Innovation Network](https://www.england.nhs.uk/aac/what-we-do/innovation-for-healthcare-inequalities-programme/health-innovation-network/#:~:text=The%20Health%20Innovation%20Network%20\(formerly,different%20population%20in%20each%20region)
+
+[^30]:  [Health Innovation South West (nd). About the Health Innovation Network](https://healthinnovationsouthwest.com/about-us/about-the-health-innovation-network/)
+
+[^31]:  [NHS Digital (nd). e-Referral Service](https://digital.nhs.uk/services/e-referral-service)
+
+[^32]:  [Digital Health (2018). England’s acute Trusts beat deadline for e-Referrals switch](https://www.digitalhealth.net/2018/09/englands-acute-trusts-beat-deadline-for-e-referrals-switch/)
+
+[^33]:  [NHS England (nd). NHS e-Referral Service](https://www.england.nhs.uk/digitaltechnology/connecteddigitalsystems/nhs-e-referral-service/)
+
+[^34]:  [NHS Digital (nd). NHS e-Referral Service (e-RS) in the Path to Live Environments](https://digital.nhs.uk/services/path-to-live-environments/nhs-e-referral-service-e-rs-in-the-path-to-live-environments)
+
+[^35]:  [NHS Digital (nd). Directory of Services (creating and maintaining services) on the NHS e-Referral Service](https://digital.nhs.uk/services/e-referral-service/document-library/directory-of-services-creating-and-maintaining-services)
+
+[^36]:  [CGI (nd). A modern e-referral service for the NHS](https://www.cgi.com/uk/en-gb/case-study/health/modern-e-referral-service-nhs)
+
+[^37]:  NB: Where recommendations address DHSC, and throughout the report, we are referring to DHSC inclusive of the newly integrated NHS England, including the relevant digital capabilities.
+
+[^38]:  [https://www.gov.uk/guidance/gds-local](https://www.gov.uk/guidance/gds-local) 
+
+[^39]:  Myddelton, W. and Green, C. (2017) 'Discovering the next Government as a Platform component', *Government as a Platform*, 6 September. Available at: [https://governmentasaplatform.blog.gov.uk/2017/09/06/discovering-the-next-component/](https://governmentasaplatform.blog.gov.uk/2017/09/06/discovering-the-next-component/)
+
+[^40]:  Plunkett, J. (2026) *Can Test & Learn methods save the NHS?* Medium, 24 February. Available at: [https://medium.com/@jamestplunkett/test-and-learn-in-healthcare-7f0da4697a0d](https://medium.com/@jamestplunkett/test-and-learn-in-healthcare-7f0da4697a0d) (Accessed: 13 April 2026).
