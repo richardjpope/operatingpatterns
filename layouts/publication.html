@@ -1,0 +1,91 @@
+{{ define "main" }}
+<style>
+  .pattern-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.pattern-intro,
+.pattern-body {
+  min-width: 0;
+}
+
+.pattern-subtitle {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  max-width: 48rem;
+  font-size: 1.25rem;
+  line-height: 1.8;
+  color: rgb(107 114 128);
+}
+
+.pattern-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+@media (min-width: 1024px) {
+  .pattern-layout {
+    grid-template-columns: minmax(0, 1fr) 30rem;
+    column-gap: 2rem;
+    row-gap: 1.5rem;
+  }
+
+  .pattern-intro {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .pattern-media {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: start;
+  }
+
+}
+</style>
+<div class="hx:mx-auto hx:flex hextra-max-page-width">
+  <div class="hx:w-full hx:break-words hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:pb-8 hx:pt-8 md:hx:pt-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-left),1.5rem)]">
+    <div class="content">
+      <div class="pattern-layout">
+        <div class="pattern-intro">
+          <h1 class="pattern-title">{{ .Title }}</h1>
+
+          {{ with .Params.subtitle }}
+          <p class="pattern-subtitle">{{ . }}</p>
+          {{ end }}
+          {{ .Content }}
+
+       <div class="hx:mt-8 hx:flex hx:flex-wrap hx:gap-4">
+          <a
+            href=""
+            class="publication-button hx:inline-flex hx:items-center hx:rounded-xl hx:bg-black hx:px-5 hx:py-3 hx:text-sm hx:font-medium hx:text-white hover:hx:opacity-90"
+          >
+            Download PDF
+          </a>
+
+          <a
+            href="/paper/html"
+            class="publication-button hx:inline-flex hx:items-center hx:rounded-xl hx:border hx:border-gray-300 hx:px-5 hx:py-3 hx:text-sm hx:font-medium hover:hx:bg-gray-100 hx:dark:border-neutral-700 hx:dark:hover:bg-neutral-800"
+          >
+            Read HTML online
+          </a>
+        </div>
+
+        </div>
+
+        {{ if .Params.image }}
+        <aside class="pattern-media">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        </aside>
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

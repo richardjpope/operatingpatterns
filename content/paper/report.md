@@ -1,11 +1,12 @@
 ---
 title: "Operating Patterns for a more dynamic NHS"
 subtitle: "A Discussion Paper"
+url: "/paper/html/"
 ---
 
 ### Acknowledgements
 
-This paper has been informed by countless conversations with people in and around the NHS. We would like to thank in particular Rachel Hope and colleagues, Ben Welby, Wiliam Bradlow, Anita Charlesworth, and Stephen Rocks. This work has been developed in part through discussions and engagement with the Health Foundation’s NHS Productivity Commission.
+This paper has been informed by countless conversations with people in and around the NHS. We would like to thank in particular Rachel Hope and colleagues, Ben Welby, William Bradlow, Anita Charlesworth, and Stephen Rocks. This work has been developed in part through discussions and engagement with the Health Foundation’s NHS Productivity Commission.
 
 ## Executive Summary
 

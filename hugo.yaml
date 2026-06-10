@@ -22,16 +22,12 @@ params:
     displayPoweredBy: false
 menu:
   main:
-    - name: "Submit an example"
-      url: "/submit/"
+    - name: "Read the discussion paper"
+      url: "/paper/"
       weight: 10
-    - name: "Writing"
-      url: "/writing/"
-      weight: 10
-# markup:
-
-#   goldmark:
-
-#     renderer:
-
-#       unsafe: true
+      params:
+        class: menu-button
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

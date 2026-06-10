@@ -1,0 +1,24 @@
+.menu-button {
+  background: #2160ad;
+  color: white !important;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.menu-button:hover {
+  opacity: 0.9;
+}
+
+.publication-button {
+  background: #2160ad;
+  color: white !important;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  font-weight: 600;    
+  text-decoration: none;;
+}
+
+.publication-button:hover {
+  opacity: 0.9;
+}

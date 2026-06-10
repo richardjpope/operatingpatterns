@@ -26,3 +26,5 @@ They offer a new grammar for devolution - a model of Digital-era Devolution.
 They apply not just to the NHS in England, but to any decentralised system - from India's public stack, to Germany’s education system, to any system of local government.
 
 We're sharing these patterns as a prototype. We'd love feedback. Are there missing patterns? Or refinements? Or case studies to bring this to life?
+
+To read more detail about the thinking behind the operating patterns, [see our Discussion Paper](/paper)
