@@ -148,6 +148,8 @@ Finally, the patterns are not mutually exclusive. The most transformative work i
 ### Pattern 1: Common platform 
 #### A universal need is solved once, exceptionally well, and is made available to everyone
 
+![Lots of small blocks representing multiple services, followed by an arrow and then a large block representing a singple platform](/images/common-platform.svg)
+
 A common platform meets a universal need once, exceptionally well, and makes the solution available to everyone, cheaply or for free. Rather than leaving hundreds of organisations to procure or build their own versions of a commoditised capability - sending notifications, verifying identity, processing payments - a suite of shared platforms do the basics brilliantly. These platforms are designed for easy, self-service adoption, and they don’t rely on mandates for uptake; they spread because they’re so good that not using them is negligent.
 
 Platforms are built and continuously improved by dedicated multidisciplinary teams, focused on meeting the needs of their users. The users of platforms are teams creating public-facing services. As such, the emphasis is on self-service, including not just the technology but the supporting documentation, onboarding, support, and governance - all are designed so that a local team can start using the platform as easily as they would start using Google. There is no need for procurement, complex integration, or specialists. A notification platform, for example, provides APIs, accessible documentation, usage dashboards, and transparent pricing that allow a Trust to add patient notifications to a new service in hours or days, not months. Open governance lets users guide how the platform evolves.
@@ -167,6 +169,8 @@ GOV.UK Notify works on an even broader scale; at the time of writing it is used 
 ### Pattern 2: Curation 
 #### Local services are surfaced in one place for a cohesive experience
 
+![A large blue block containing smaller dotted boxes. Small multi coloured blocks are shown with arrows pointing at the larger block](/images/curation.svg)
+
 Curation is a way to surface locally-provided services into a single interface, creating a coherent experience for patients at national scale. Rather than expecting patients to navigate many websites, apps, and access points for different geographies and providers, local services are all behind one door, or on one ‘surface’
 
 The ‘surface’ through which multiple services can be accessed is run as a product with a dedicated mixed-discipline team and clear product ownership. Common data standards are agreed and collectively governed, so that the local services surface coherently. A diverse range of services, provided by an array of NHS providers and community organisations, can be curated together in this way (i.e. booking appointments, accessing records, finding local support, self-referring for tests). Local providers are individually responsible for the accuracy of their service information and provide feedback to improve patient experience. Regional teams use the data generated to identify and fill gaps.
@@ -184,6 +188,8 @@ Another example of curation is Wayfinder in the NHS App, which helps patients na
 ### Pattern 3: Collaborative capacity
 #### Trusts band together to solve a shared problem
 
+![A blue box representing a service or platform surrounded by a dotted box and multiple dots representing the organisations collaborating](/images/collaborative-capacity.svg)
+
 Collaborative capacity is an operating pattern in which multiple local NHS organisations pool resources to build shared solutions to common problems. Rather than each Trust or Integrated Care Board independently commissioning similar work - duplicating effort, fragmenting expertise and limiting what is achievable within any one organisation's budget - this pattern enables organisations to fund a single, dedicated multidisciplinary team with collective governance and shared ownership of the output. The solutions developed are open source, ensuring that the investment benefits the wider system and that participating organisations retain control rather than creating new dependencies.
 
 The pattern works through deliberate organisational structures that support collective action. There are clear governance frameworks that give participating organisations meaningful input through product ownership and decision-making; funding models based on membership or contribution rather than traditional procurement; and an open-source approach that ensures outputs remain public goods rather than becoming locked assets. A team working on appointment booking for five Trusts, for instance, operates with a singular product owner representing those Trusts’ collective interests. A single excellent solution is created rather than five mediocre ones, with the code and learnings also available for other organisations to adopt.
@@ -200,6 +206,8 @@ When one council identifies a need (e.g. better search functionality, improved a
 
 ### Pattern 4: Market-shaping
 #### A dynamic market offers great products that compete on UX and price, not vendor lock-in
+
+![A blue box representing a service or platform surrounded by a dotted box and multiple dots representing the organisations collaborating](/images/market-shaping.svg)
 
 Market-shaping is an operating pattern in which the NHS cultivates a competitive supplier ecosystem that serves the health system’s interests rather than vendor interests. It begins to fix today’s broken software market, which is dominated by monolithic systems, proprietary data formats, and contracts that lock organisations into expensive and inflexible relationships. To counter this, the pattern uses standards, regulation and strategic investment to create conditions where suppliers compete on genuine value (i.e. better user experience, lower prices, and superior functionality) rather than on their ability to make switching costly or impossible.
 
@@ -222,6 +230,8 @@ Together, this creates a market where suppliers compete on service quality and u
 ### Pattern 5: Local innovation, scaled
 #### A local innovation works, so it is opened up for others to use
 
+![Three blocks, each getting progressively larger and gaining extra colours as it grows](/images/local-innovation-scaled.svg)
+
 Local innovation, scaled, creates easy pathways for successful local innovation to spread across the NHS. When a team develops an innovation that works in a local place, whether it’s a digital tool, a care pathway, or a service model, this success is noticed, and an expansion is resourced, making it available to others. Rather than leaving good ideas trapped in their place of origin, or leaving every organisation to invent individual solutions to common problems, this pattern treats local innovations as potential system assets worthy of investment and scaling.
 
 The mechanism works through a combination of intelligence functions that actively scan for promising innovations, funding structures that can redirect resources toward proven successes, and the organisational flexibility to transfer teams and services from local to regional or national homes as they mature. For instance, a local innovation, such as an effective falls prevention app developed within one hospital, doesn’t remain a local success story. It becomes a candidate for scaling, and receives the money and people needed to adapt it for wider use, whether through white-labelling, regional rollout, or national adoption.[^28]
@@ -240,6 +250,8 @@ In this case, local teams innovated in response to a clinical problem they faced
 
 ### Pattern 6: Modular assembly
 #### Local services are built from and augmented by common components and design standards
+
+![Three different groups of multi-coloured blocks arranged in a different shape](/images/modular-assembly.svg)
 
 Modular assembly is an operating pattern in which local health services are built by combining standardised, reusable components with locally-tailored solutions. This approach provides teams with a reliable foundation of shared infrastructure - such as patient notifications, appointment booking systems, or clinical data platforms - that they can augment with service designs and tools shaped to their specific populations and contexts.
 
