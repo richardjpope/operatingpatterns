@@ -119,6 +119,8 @@ Although learning and spreading innovation in the NHS is difficult, there are ex
 
 What do we learn from this history? A foundational text is Greenhalgh et al.'s 2004 systematic review.[^16] A common finding across multiple evaluations is that the effects of the above initiatives are not definitively understood, but where effects are found they are typically positive. Peer-to-peer, clinician-led approaches like GIRFT consistently achieve deeper engagement than top-down mandates. Another theme is that efforts to support collaboration and learning have been hamstrung by constant top-down restructures. A final insight is that increasingly powerful data infrastructure is beginning to allow more sophisticated efforts at continuous improvement that get closer to achieving something akin to collective intelligence.
 
+</div>
+
 ### The promise: The NHS as a learning system
 
 We have focused here on the signs that today’s conception of devolution is not working. However, there are also signs showing what a better system could look like.

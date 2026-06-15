@@ -62,7 +62,7 @@
 
        <div class="hx:mt-8 hx:flex hx:flex-wrap hx:gap-4">
           <a
-            href=""
+            href="/files/operatingpatterns.pdf"
             class="publication-button hx:inline-flex hx:items-center hx:rounded-xl hx:bg-black hx:px-5 hx:py-3 hx:text-sm hx:font-medium hx:text-white hover:hx:opacity-90"
           >
             Download PDF
@@ -72,7 +72,7 @@
             href="/paper/html"
             class="publication-button hx:inline-flex hx:items-center hx:rounded-xl hx:border hx:border-gray-300 hx:px-5 hx:py-3 hx:text-sm hx:font-medium hover:hx:bg-gray-100 hx:dark:border-neutral-700 hx:dark:hover:bg-neutral-800"
           >
-            Read HTML online
+            Read online
           </a>
         </div>
 
@@ -80,7 +80,10 @@
 
         {{ if .Params.image }}
         <aside class="pattern-media">
-          <img src="{{ .Params.image }}" alt="{{ .Title }}">
+          <a
+            href="/files/operatingpatterns.pdf">
+            <img src="{{ .Params.image }}" alt="{{ .Title }}">
+          </a>
         </aside>
         {{ end }}
 
